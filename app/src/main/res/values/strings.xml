@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstCrud</string>
+
+    <!-- SubscriberFragment: Strings da tela de subscribe-->
+    <string name="e_mail">E-mail</string>
+    <string name="subscriber_s_name">Subscriber\'s name</string>
+    <string name="add">ADD</string>
+    <string name="subscriber_title">Subscriber</string>
+</resources>
